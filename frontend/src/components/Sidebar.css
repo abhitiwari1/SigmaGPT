@@ -1,4 +1,4 @@
-/* .sidebar {
+.sidebar {
     background-color: #171717;
     color: #b4b4b4;
     height: 100vh;
@@ -85,4 +85,4 @@ button span {
 .highlighted {
     background-color: rgba(180, 180, 180, 0.05);
     border-radius: 10px;
-} */
+}
