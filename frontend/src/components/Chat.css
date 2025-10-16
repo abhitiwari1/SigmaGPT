@@ -1,4 +1,4 @@
-/* .chats {
+.chats {
     max-width: 700px;
     padding: 8rem;
     overflow-y: scroll;
@@ -30,4 +30,4 @@
 
 pre {
     white-space: pre-wrap;
-} */
+}
